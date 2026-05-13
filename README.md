@@ -1,2 +1,2 @@
 # AUTOMATED_STUDENT_ATTENDANCE_SYSTEM_USING_DEEP_LEARNING-BASED_FACE_RECOGNITION
-Deep learning-based face recognition system for automated student attendance. Uses ArcFace embeddings and cosine similarity for accurate real-time identification. Built with Django for registration, authentication, reporting, and analytics, ensuring a contactless, scalable solution.
+A deep learning-based web application that automates student attendance using real-time face recognition. The system detects and recognizes student faces through webcam input and automatically records attendance using Django, OpenCV, MTCNN, and InsightFace. It provides secure, contactless, and efficient attendance management with real-time monitoring, duplicate prevention, and attendance report generation.
